@@ -77,3 +77,7 @@ node server.js
 <img width="1801" height="926" alt="image" src="https://github.com/user-attachments/assets/a65fe375-95b1-4cd9-94c5-b341168687cd" />
 
 <img width="257" height="265" alt="image" src="https://github.com/user-attachments/assets/d9369037-989c-4a12-b840-28525b844579" />
+
+
+On production now!!!
+https://night-expenditure-completed-davidson.trycloudflare.com/
