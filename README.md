@@ -50,6 +50,9 @@ npm install
 
 # 4. รันเซิร์ฟเวอร์
 node server.js
+
+# 5. production
+localhost:3000
 ```
 
 ## 📸 ภาพหน้าจอ (Screenshots)
