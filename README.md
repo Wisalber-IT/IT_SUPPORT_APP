@@ -57,9 +57,6 @@ localhost:3000
 
 ## 📸 ภาพหน้าจอ (Screenshots)
 *(นำรูปภาพหน้าจอโปรเจกต์ของคุณ เช่น หน้า Login, Dashboard, หน้าต่าง Chat มาใส่ที่นี่ เพื่อให้อาจารย์เห็นภาพชัดเจนขึ้น)*
-* `![Dashboard](link-to-image)`
-* `![Chat System](link-to-image)`
+<img width="1308" height="741" alt="image" src="https://github.com/user-attachments/assets/cc45c90d-9257-4680-91d3-2dfa439772e9" />
 
----
-**Developed by:** [ชื่อ-นามสกุล หรือนามปากกาของคุณ] 
-**Academic Project:** [ชื่อวิชา / ปีการศึกษา - ถ้ามี]
+<img width="1357" height="860" alt="image" src="https://github.com/user-attachments/assets/5c603279-8c92-4b5d-bfa4-7af88519de98" />
