@@ -50,13 +50,16 @@ npm install
 
 # 4. รันเซิร์ฟเวอร์
 node server.js
-
-# 5. production
-localhost:3000
 ```
 
 ## 📸 ภาพหน้าจอ (Screenshots)
-*(นำรูปภาพหน้าจอโปรเจกต์ของคุณ เช่น หน้า Login, Dashboard, หน้าต่าง Chat มาใส่ที่นี่ เพื่อให้อาจารย์เห็นภาพชัดเจนขึ้น)*
+
+<img width="1261" height="780" alt="image" src="https://github.com/user-attachments/assets/88d547fb-00e4-4c1f-8831-a7e3c676b094" />
+
 <img width="1308" height="741" alt="image" src="https://github.com/user-attachments/assets/cc45c90d-9257-4680-91d3-2dfa439772e9" />
 
 <img width="1357" height="860" alt="image" src="https://github.com/user-attachments/assets/5c603279-8c92-4b5d-bfa4-7af88519de98" />
+
+<img width="1320" height="643" alt="image" src="https://github.com/user-attachments/assets/12c94649-c509-4584-aa18-fc6a4266a63e" />
+
+<img width="1255" height="672" alt="image" src="https://github.com/user-attachments/assets/afd4e264-d0ee-439c-bbac-1e0da2895f9c" />
