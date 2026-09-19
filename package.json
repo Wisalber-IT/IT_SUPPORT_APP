@@ -1,0 +1,12 @@
+{
+  "name": "it-ticket-portable",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^2.4.0",
+    "node-windows": "^1.0.0-beta.8",
+    "socket.io": "^4.7.2",
+    "sqlite3": "^5.1.7"
+  }
+}
